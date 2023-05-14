@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**t-symkovych/t-symkovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Tomas Symkovych
 
 **`Frondend focused fullsatack developer`**
@@ -33,6 +16,15 @@ I have five years of experience in software front-end development. Deep knowledg
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="storybook" width="30px" style="padding-right:10px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" /> 
+<img align="left" alt="graphQl" width="30px" style="padding-right:10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+<img align="left" alt="redux" width="30px" style="padding-right:10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" alt="mongoDB" width="30px" style="padding-right:10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="tailwind" width="30px" style="padding-right:10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img align="left" alt="scss" width="30px" style="padding-right:10px;  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+          
+          
+                   
 <br />
 
 #
@@ -46,5 +38,8 @@ I have five years of experience in software front-end development. Deep knowledg
 #
 
 <details>
- <summary><h3>👨‍💻 Mine Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+I started my coding journey in the institute. My paper topic was a LAMP (Linux, Apach, MySQL, Perl) web application for schools. I taught IT in a public school after my degree. The school program linked to Pascal language, it was outdated so I added Python to my teaching materials. Anyway it was a nice experience but I wanted to develop my coding skills so I signed into a fullstack (React/Node) course in 2017. I got my course certificate and in the same week I got a job in IT company in my hometown. I worked there for 4 years. After years of fruit corporation with the IT company. I decided to learn a new tech stack for this reason I went to another company which uses GraphQL Apollo Typescript trio.
+
+My devops and BE skills aren't my strong side, for this reason I am doing more fullstack tasks in my current project and I am learning the aws developer associate course.
+   
