@@ -1,6 +1,6 @@
 # Tomas Symkovych
 
-**`Frondend focused fullsatack developer`**
+**`Frontend focused Full Stack developer`**
 
 I have five years of experience in software front-end development. Deep knowledge of JavaScript/ TypeScript, React in various projects of diverse domains: fin-tech, TV stream, e-learn.
 
@@ -17,23 +17,12 @@ I have five years of experience in software front-end development. Deep knowledg
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="storybook" width="30px" style="padding-right:10px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" /> 
-<img align="left" alt="graphQl" width="30px" style="padding-right:10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-<img align="left" alt="redux" width="30px" style="padding-right:10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="mongoDB" width="30px" style="padding-right:10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="tailwind" width="30px" style="padding-right:10px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-<img align="left" alt="scss" width="30px" style="padding-right:10px;  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-          
-          
+<img align="left" alt="graphQl" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img align="left" alt="redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" alt="mongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="scss" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />      
                    
 <br />
-
-#
-
-### 📊 Stats
-
-![Symkovych's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-symkovych&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=t-symkovych&theme=gruvbox&border_radius=4.5) -->
 
 #
 
